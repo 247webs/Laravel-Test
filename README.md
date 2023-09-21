@@ -45,7 +45,6 @@
 
 # Glance at the UI
 
-![Image](./images/Login.png?q=1)
 ![Image](./images/Signup.png?q=2)
 ![Image](./images/ProductListing.png?q=3)
 ![Image](./images/Checkout.png?q=4)
